@@ -5,14 +5,22 @@
        Sebelumnya saya ucapkan terima kasih banyak untuk dosen saya bapak Prof. Dr. Suhartono, M.Kom. yang sudah membimbing saya untuk belajar ilmu baru khususnya sains data ini. Ini pertama kalinya saya belajar RStudio dan RPubs. Mungkin awalnya memang susah tapi apabila sudah dipahami dan tau tujuan dari belajar ilmu ini apa sehingga mudah untuk dipahami. Harapan saya semoga semua ilmu yang beliau bagikan bermanfaat untuk saya dan teman-teman semua.
        
        Untuk materi selanjutnya bisa dilihat RPubs yang sudah aku buat.
+       
  Data Visualitation
 [Data Visualitation](https://rpubs.com/merrys31/732032)
+
+
  Aljabar Linier
 [Aljabar Linier](https://rpubs.com/merrys31/732035)
+
+
  Data Transformation
 [Data Transformation](https://rpubs.com/merrys31/732034)
+
+
  Relational Data Set
 [Relational Data Set](https://rpubs.com/merrys31)
+
 
 Untuk tampilan di [RPubs](https://rpubs.com/merrys31) bisa langsung klik link RPubs Yuliana Aristantia
 
