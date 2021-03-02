@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/merrystantia/Yulianaaristantia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome 
+Selamat datang...
+Disini saya akan berbagi ilmu tentang Sains Data. 
+You can use the [RPubs](https://rpubs.com/merrys31) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
